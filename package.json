@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "cypress run"
+  },
+  "dependencies": {
+    "cypress": "^4.3.0"
+  }
+}
